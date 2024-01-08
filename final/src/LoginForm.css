@@ -1,0 +1,17 @@
+
+label{
+    padding-right: 0.5rem;
+}
+
+
+input{
+    font-size: large;
+}
+
+button{
+    font-size: medium;
+}
+
+.login__username{
+    margin-left: 0.5rem;
+}

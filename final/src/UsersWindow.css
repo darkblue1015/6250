@@ -1,0 +1,18 @@
+.user{
+    list-style: none;
+}
+
+.users{
+    padding: 0;
+    margin-top: 0;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0.5rem;
+}
+
+.users__window{
+    background-color: antiquewhite;
+}
